@@ -158,5 +158,33 @@ footer {
     text-align: center;
 }
 
+@media screen and (max-width: 1020px) {
+
+    .navigation {
+        display: none;
+    }
+
+    header img {
+        margin-left: 20px;
+    }
+
+    main .info {
+        flex-direction: column;
+    }
+
+    .info img {
+        margin-left: 15px;
+    }
+
+   .boneco {
+     width: 0%;
+   }
+
+   footer {
+    margin-top: 15px;
+    font-weight: lighter;
+   }
+}
+
 
 
