@@ -1,7 +1,7 @@
 
 # Página Homem de Ferro
 
-Este é uma landpage de estudo na foi desenvolvido o efeito de onda em javascript, além de consolidar as técnicas em html e css.
+Este é uma landpage de estudo na foi desenvolvido em html, css e javascript.
 
 link: https://homem-de-ferro-red.vercel.app/
 
