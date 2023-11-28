@@ -1,7 +1,7 @@
 
 # Página Homem de Ferro
 
-Este é uma landpage de estudo na foi desenvolvido em html, css e javascript.
+Este é uma landpage de estudo desenvolvido em html, css e javascript.
 
 link: https://homem-de-ferro-red.vercel.app/
 
